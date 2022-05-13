@@ -1,3 +1,3 @@
-# header
+# Discrete Fourier Transform as a Neural Network?
 
-some text
+Read the notebook to find out
