@@ -2,4 +2,4 @@
 
 Read the notebook to find out
 
-inspired by: [sdsite]https://sidsite.com/posts/fourier-nets/
+inspired by: [sdsite](https://sidsite.com/posts/fourier-nets/)
