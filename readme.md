@@ -2,5 +2,5 @@
 
 ```
 * Fourier Transform as a neural network
-* Fourier Transoform image compression
+* Fourier Transform image compression
 ```
