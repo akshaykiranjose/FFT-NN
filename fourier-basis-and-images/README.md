@@ -25,6 +25,9 @@ can be used to reconstruct the original image.
 
 ## Signal Restoration by beating Nyquist Rate 
 
+### An example from Wikipedia
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/3/38/Orthogonal_Matching_Pursuit.gif)
+
 ### Original Signal and its random samples
 <img src="figures/samples and PSD.png" >
 
