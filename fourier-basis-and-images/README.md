@@ -23,4 +23,6 @@ With knowledge of a sparse vector ![s](https://latex.codecogs.com/gif.latex?s) t
 can be used to reconstruct the original image.
 
 
-View the HTML files by pasting the URL [here](https://htmlpreview.github.io/)
+## Signal Restoration by beating Nyquist Rate 
+
+
