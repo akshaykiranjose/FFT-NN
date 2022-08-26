@@ -1,4 +1,4 @@
-# fourier-basis-and-images
+# fourier basis: images and signals
 ## Image Reconstruction via Fourier Basis and Compressed Sensing
 
 ### Traditional Image Compression and Reconstruction
