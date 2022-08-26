@@ -25,4 +25,11 @@ can be used to reconstruct the original image.
 
 ## Signal Restoration by beating Nyquist Rate 
 
+### Original Signal and its random samples
+<img src="figures/samples and PSD.png" >
 
+### compressed sensing restoration via CoSaMP
+<img src="figures/CoSaMP reconstruction samples and PSD.png" >
+
+### compressed sensing restoration via Linear Program
+<img src="figures/linprog reconstruction samples and PSD.png" >
