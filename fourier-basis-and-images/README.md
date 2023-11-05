@@ -18,7 +18,7 @@ If $x \in \mathbb{R}^{n}$ is an image in image space, and is $K$-sparse in $\Psi
 $K << p< n$,  is given by $y=Cx$.  
 With knowledge of a sparse vector $s$ that satisfies the optimization problem
 
-$\hat{s} = \underset{s}{\operatorname{argmin}} |s||_0 \ \text{subject to} \ y = C\Psi s$
+$\hat{s} = \underset{s}{{argmin}} ||s||_0 \ \text{subject to} \ y = C\Psi s$
 can be used to reconstruct the original image.
 
 
